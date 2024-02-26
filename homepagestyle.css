@@ -23,7 +23,9 @@
   }
 
   body{
+    font-family: "Atkinson Hyperlegible";
     background-color:aliceblue;
+    margin:8px;
   }
 
 h1{
