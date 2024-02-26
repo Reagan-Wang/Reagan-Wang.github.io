@@ -29,18 +29,17 @@
 h1{
     font-family: "Atkinson Hyperlegible";
     color:darkslategray;
-    text-align: center;
 }
 
 h2{
     font-family: "Atkinson Hyperlegible";
     color: slategray;
-    text-align: center;
 }
 
 p{
     font-family: "Atkinson Hyperlegible";
     color:darkslategrey;
+    margin: 8px;
 }
 
 footer{
