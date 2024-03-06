@@ -22,11 +22,11 @@
     font-style: italic;
   }
 
-  body{
+body{
     font-family: "Atkinson Hyperlegible";
     background-color:rgb(164, 213, 255);
     margin:8px;
-  }
+}
 
 h1{
     font-family: "Atkinson Hyperlegible";
@@ -45,13 +45,12 @@ h3{
 
 p{
     font-family: "Atkinson Hyperlegible";
-    color:rgb(0, 112, 112);
-    margin: 8px;
+    color:rgb(28, 61, 61);
 }
 
 footer{
     font-family: "Atkinson Hyperlegible";
-    color: rgb(0, 112, 112);
+    color: rgb(28, 61, 61);
     text-align: left;
 }
 
@@ -74,6 +73,7 @@ ul {
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
+  font-weight: bolder;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
@@ -90,5 +90,24 @@ ul {
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: #0f74f8;
-  color: rgb(0, 217, 255);
+  color: rgb(178, 228, 236);
+}
+
+.box {
+  position:fixed;
+  right: 8%;
+  top: 10%;
+  bottom:0;
+}
+.box-table {
+  height:100%;
+  display:table;
+}
+.inner {
+  display:table-cell;
+  height:100%;
+}
+.content {
+  background:#7ac8e2;
+  border:1px solid rgb(0, 38, 255);
 }
