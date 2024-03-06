@@ -52,11 +52,11 @@ p{
 footer{
     font-family: "Atkinson Hyperlegible";
     color: rgb(28, 61, 61);
-    text-align: left;
+    /*text-align: left;*/
 }
 
 a{
-  color:rgb(74, 129, 230)
+  color:rgb(42, 100, 207)
 }
 
 li {
@@ -113,6 +113,6 @@ ul {
   height:100%;
 }
 .content {
-  background:#7ac8e2;
-  border:1px solid rgb(0, 38, 255);
+  background:#e4f8ff;
+  border:1px solid rgb(148, 160, 224);
 }
