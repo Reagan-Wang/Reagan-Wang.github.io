@@ -24,7 +24,7 @@
 
 body{
     font-family: "Atkinson Hyperlegible";
-    background-color:rgb(164, 213, 255);
+    background-color:rgb(255, 255, 255);
     margin:8px;
 }
 
@@ -53,6 +53,10 @@ footer{
     font-family: "Atkinson Hyperlegible";
     color: rgb(28, 61, 61);
     text-align: left;
+}
+
+a{
+  color:rgb(74, 129, 230)
 }
 
 li {
