@@ -117,7 +117,17 @@ ul {
   border:1px solid rgb(148, 160, 224);
 }
 
-table, th, td{
+.gameTable{
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.gameTable tr{
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.gameTable td{
   width: 100%;
   border-collapse: collapse;
 }
