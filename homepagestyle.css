@@ -137,3 +137,8 @@ ul {
 .normalTable td{
   padding-left: 10px;
 }
+
+.pageStyle {
+  padding-left: 5%;
+  padding-top: 2.5%;
+}
